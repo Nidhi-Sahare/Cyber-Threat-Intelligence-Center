@@ -43,13 +43,17 @@ python main.py
 
 ## Output Screenshots
 
-![Output 1](images/Screenshot 2026-06-07 134021.png)
+### Output 1
+![Output 1](images/Screenshot%202026-06-07%20134021.png)
 
-![Output 2](images/Screenshot 2026-06-07 134033.png)
+### Output 2
+![Output 2](images/Screenshot%202026-06-07%20134033.png)
 
-![Output 3](images/Screenshot 2026-06-07 134054.png)
+### Output 3
+![Output 3](images/Screenshot%202026-06-07%20134054.png)
 
-![output 4](<images/Screenshot 2026-06-07 134139.png>)
+##Output 4
+![Output 4](images/Screenshot%202026-06-07%20134139.png)
 
 ## Future Improvements
 - Improve model accuracy using hyperparameter tuning  
